@@ -7,3 +7,5 @@ There are 4 modules:
 - UI module updates the view of the application - things that should be displayed in current state
 - App module is the main module. Initialize the application and load Event Listeners for all the buttons.
 Also contains methods for all mutations after some event fired.
+
+https://whiteartur1997.github.io/trackcalories/
